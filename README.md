@@ -23,4 +23,5 @@ En este proyecto me enfoque en convertir la clonacion de la interfaz de Google. 
 * **Footer**: Seccion que incluye hipervinculos al final de la pagina.
 
 ## 3. Objetivo del proyecto 🤓
-Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3
+Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
+
